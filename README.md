@@ -1,0 +1,2 @@
+# 👋 Hi we are TipoAI
+
