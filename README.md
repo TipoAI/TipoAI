@@ -17,3 +17,8 @@ You can make one time donations via Paypal: _paypal.me/tipoaicorp_
 
 
 Thanks! 🙌😊
+
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TipoAI)](https://github.com/TipoAI/github-readme-stats)
