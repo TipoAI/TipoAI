@@ -1,4 +1,4 @@
-# 👋 Hi we are TipoAI
+# 👋 Hi there, we are TipoAI
 
 We are a group of people that love to code, we are a nonprofit organistation that develops AI and machine learning stuff. We hope that you like our project and feel free to donate a dollar or two on our website.
 
