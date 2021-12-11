@@ -13,6 +13,7 @@ We are developing incredible AI systems and if you are happy with our projects a
 develop a better everyday AI, there are a few ways you can do it
 
 Starring and sharing the projects to near and loved 🚀<br>
-You can make one time donations via Paypal paypal.me/tipoaicorp - ❤
+You can make one time donations via Paypal, paypal.me/tipoaicorp
+
 
 Thanks! 🙌😊
